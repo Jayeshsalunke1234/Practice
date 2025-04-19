@@ -5,6 +5,7 @@ Class Drive{
         String name="jayehs";
             int j=10;
         String town="Yawal";
+        String error="conflict";
 
         
             
