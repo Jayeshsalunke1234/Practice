@@ -12,6 +12,16 @@ class Mainu{
         l.add("Chicken biryani");
         l.add("chicken fry");
         l.add("chicken latpat");
+
+
+
+
+
+          Sysytem.out.println("Using stash")
+        l.add("veg biryani");
+        l.add(" fry");
+        l.add("shev latpat");
+      
       
 
 
