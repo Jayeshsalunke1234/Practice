@@ -13,6 +13,7 @@ class Mainu{
         l.add("chicken fry");
         l.add("chicken latpat");
 
+<<<<<<< Updated upstream
 
 
 
@@ -22,6 +23,9 @@ class Mainu{
         l.add(" fry");
         l.add("shev latpat");
       
+=======
+        l.add("shev bhaji");  //jira -101
+>>>>>>> Stashed changes
       
 
 
